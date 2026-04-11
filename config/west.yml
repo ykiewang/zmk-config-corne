@@ -16,18 +16,18 @@ manifest:
     # dongle_display
     - name: zmk-dongle-display
       remote: englmaxi
-      revision: main
+      revision: caa901038d806312c71c290c99e08b05112b8072
     # nice_oled - nice_epaper
     - name: zmk-nice-oled
       remote: mctechnology17
-      revision: main
+      revision: 5d7dce25735277dd6dcd8295c64e143d4f95cdfa
     # dongle_display!view
     - name: zmk-dongle-display-view
       remote: mctechnology17
-      revision: main
+      revision: 05bf62b4ee0858cd8801b07aa6cc6716d210932d
     # oled Adapter
     - name: zmk-oled-adapter
       remote: mctechnology17
-      revision: main
+      revision: 9b862f63010cbcb5f5ad3d96bc9156099bf560ba
   self:
     path: config
