@@ -14,7 +14,7 @@ layers:
   - P
   - $$mdi:backspace-outline$$
   - LEFT SHIFT
-  - B
+  - A
   - S
   - D
   - {t: F, h: FUN}
