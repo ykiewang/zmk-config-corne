@@ -8,6 +8,8 @@ manifest:
     # nice_oled - nice_epaper - dongle_display!view - oled Adapter
     - name: mctechnology17
       url-base: https://github.com/mctechnology17
+    - name: ykiewang
+      url-base: https://github.com/ykiewang
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -29,5 +31,8 @@ manifest:
     - name: zmk-oled-adapter
       remote: mctechnology17
       revision: 9b862f63010cbcb5f5ad3d96bc9156099bf560ba
+    - name: zmk-keybeacon
+      remote: ykiewang
+      revision: v1.0.0
   self:
     path: config
