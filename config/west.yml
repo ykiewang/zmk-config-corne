@@ -33,6 +33,6 @@ manifest:
       revision: 9b862f63010cbcb5f5ad3d96bc9156099bf560ba
     - name: zmk-keybeacon
       remote: ykiewang
-      revision: aea6db585d611889799db05c0b1598eff66ed2ab  # feat/kbp-1.1-connectivity-power HEAD; swap to v1.1.0 tag at T041 after hardware verification
+      revision: v1.1.0
   self:
     path: config
