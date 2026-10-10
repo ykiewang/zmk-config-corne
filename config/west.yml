@@ -33,6 +33,6 @@ manifest:
       revision: 9b862f63010cbcb5f5ad3d96bc9156099bf560ba
     - name: zmk-keybeacon
       remote: ykiewang
-      revision: v1.1.1
+      revision: v1.1.2
   self:
     path: config
